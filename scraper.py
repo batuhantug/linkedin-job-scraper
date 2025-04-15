@@ -9,7 +9,7 @@ from utils import setup_logging, clean_text
 class LinkedInJobScraper:
     def __init__(self):
         self.headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+            'User-Agent': 'Header'
         }
         self.base_url = "https://www.linkedin.com/jobs/search"
         setup_logging()
@@ -124,7 +124,7 @@ class LinkedInJobScraper:
 class WebScraper:
     def __init__(self):
         self.headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+            'User-Agent': 'Header'
         }
     
     def scrape_website(self, url):
