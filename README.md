@@ -71,11 +71,4 @@ streamlit run app.py
 
 4. View results and download as CSV if desired
 
-## Project Structure
-
-├── app.py                  # Streamlit frontend
-├── scraper.py             # Web scraping logic
-├── utils.py               # Helper functions
-├── requirements.txt       # Python dependencies
-└── README.md             # Project instructions
 
