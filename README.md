@@ -2,7 +2,7 @@
 
 A web application built with Streamlit that scrapes job listings from LinkedIn with customizable filters and analytics.
 
-###This project was created for educational and demonstration purposes only. It is intended to showcase web scraping, data handling, and interactive app ###development using Streamlit. Please respect the terms of service of any websites you interact with, and do not use this tool for commercial scraping or ###automation without permission.
+### This project was created for educational and demonstration purposes only. It is intended to showcase web scraping, data handling, and interactive app  development using Streamlit. Please respect the terms of service of any websites you interact with, and do not use this tool for commercial scraping or automation without permission.
 
 ## 🖼️ App Preview
 
