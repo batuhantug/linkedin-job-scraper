@@ -9,11 +9,11 @@ Here are some screenshots of the app in action:
 ### 🔍 Job Search Interface
 ![Search UI](img_1.png)
 
-### 📊 Analytics Dashboard
-![Analytics](img_2.png)
+### 📊 Results And Analytics Dashboard
+![Analytics](img_3.png)
 
 ### 📝 Filter Sidebar
-![Filters](img_3.png)
+![Filters](img_2.png)
 
 
 ## Features
