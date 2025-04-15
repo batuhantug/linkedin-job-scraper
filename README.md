@@ -2,6 +2,20 @@
 
 A web application built with Streamlit that scrapes job listings from LinkedIn with customizable filters and analytics.
 
+## 🖼️ App Preview
+
+Here are some screenshots of the app in action:
+
+### 🔍 Job Search Interface
+![Search UI](img_1.png)
+
+### 📊 Analytics Dashboard
+![Analytics](img_2.png)
+
+### 📝 Filter Sidebar
+![Filters](img_3.png)
+
+
 ## Features
 
 - Search jobs by keywords and location
@@ -16,10 +30,12 @@ A web application built with Streamlit that scrapes job listings from LinkedIn w
 
 ## Installation
 
+Dont forget add Header for scraper.
+
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/batuhantug/linkedin-job-scraper.git
+cd linkedin-job-scraper
 ```
 
 2. Create and activate virtual environment:
@@ -63,10 +79,3 @@ streamlit run app.py
 ├── requirements.txt       # Python dependencies
 └── README.md             # Project instructions
 
-## Contributing
-
-[Add contribution guidelines here]
-
-## License
-
-[Add license information here] 
